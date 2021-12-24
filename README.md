@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fahrifansyah
-- 👀 I’m interested in Frontend, UI/UX Design
+- 👀 I’m interested in Frontend, UI/UX Design, etc.
 - 🌱 I’m currently learning Html, CSS, Javascript, Adobe Photoshop, Adobe Illustrator
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail : fahrifansyah@gmail.com
