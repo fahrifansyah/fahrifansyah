@@ -231,7 +231,7 @@ header img {
     margin-top: 82px;
     background-color: black ;
     opacity: 70%;
-    height: 180px;
+    height: 190px;
 }
 
 .landing-bawah a {
@@ -359,7 +359,7 @@ header img {
 .profile-tengah-tengah-1{
     grid-area: kiri-atas;
     background-image: url(images/Rectangle\ 20.png);
-    background-size: 641px;
+    background-size: 655px;
     height: 289px;
     width: fit-content;
 }
@@ -367,7 +367,7 @@ header img {
 .profile-tengah-tengah-2{
     grid-area: kanan-atas;
     background-image: url(images/Rectangle\ 21.png);
-    background-size: 641px;
+    background-size: 655px;
     height: 289px;
     width: fit-content;
 }
@@ -375,7 +375,7 @@ header img {
 .profile-tengah-tengah-3{
     grid-area: kiri-bawah;
     background-image: url(images/Rectangle\ 22.png);
-    background-size: 641px;
+    background-size: 655px;
     height: 289px;
     width: fit-content;
 }
@@ -383,7 +383,7 @@ header img {
 .profile-tengah-tengah-4{
     grid-area: kanan-bawah;
     background-image: url(images/Rectangle\ 23.png);
-    background-size: 641px;
+    background-size: 655px;
     height: 289px;
     width: fit-content;
 }
