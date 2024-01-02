@@ -227,11 +227,11 @@ header img {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding:0px 85px 0px 50px ;
+    padding:0px 75px 0px 50px ;
     margin-top: 82px;
     background-color: black ;
     opacity: 70%;
-    height: 200px;
+    height: 220px;
 }
 
 .landing-bawah a {
