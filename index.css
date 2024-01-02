@@ -231,7 +231,7 @@ header img {
     margin-top: 82px;
     background-color: black ;
     opacity: 70%;
-    height: 220px;
+    height: 216px;
 }
 
 .landing-bawah a {
@@ -333,7 +333,7 @@ header img {
 }
 
 .profile-tengah-tengah{
-    padding: 158px 95px 0px 96px;
+    padding: 158px 85px 0px 96px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
